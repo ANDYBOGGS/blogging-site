@@ -1,0 +1,33 @@
+h1 {text-align: center;
+}
+
+h2.intro {
+  font-family: sans-serif;
+  text-align: center;
+  border: 1px dashed
+
+}
+
+p.intro {
+  font-family: sans-serif;
+  font-style: italic;
+
+
+}
+
+img.intro {
+  background-color: grey;
+
+
+}
+.intro{
+  color: red;
+}
+
+.bodypart{
+  color: green;
+}
+
+.important{
+  font-style: italic;
+}
